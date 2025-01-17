@@ -1,8 +1,6 @@
 .rows{
     background-color: grey;
     text-align: center;
-    ;
-    vertical-align:auto
 
 }
 h1{
@@ -14,4 +12,8 @@ h1{
 .sangria{
     padding-left: 5%;
     ;
+}
+
+.fancy{
+
 }
