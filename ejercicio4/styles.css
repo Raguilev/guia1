@@ -1,0 +1,36 @@
+#logo{
+    height: 40px;
+    margin: 20px;
+}
+.col-2{
+    margin-left: 10px;
+    padding: 10px;
+}
+#avion{
+    height: 400px;
+}
+#titulo{
+    color:rgb(20, 151, 20);
+}
+.subtitulo{
+    color: rgb(20, 151, 20);
+}
+.row{
+    margin: 0;
+}
+.card-footer{
+    text-align: center;
+}
+#footer-texto{
+    font-size: 20px;
+}
+#cuadrado{
+    border: 3px solid rgb(20, 151, 20);
+}
+#publicidad{
+    margin: 20px;
+
+}
+p{
+    font-size: 18px;
+}
